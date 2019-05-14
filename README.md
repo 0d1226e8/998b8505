@@ -25,4 +25,4 @@ Follow the [installation guide](./docs/Installation.md).
 
 ## Diabetic Retinopathy Detection
 
-Follow the [download and prepare guide](.docs/Benchmarks.md)
+Follow the [download and prepare guide](./docs/Benchmarks.md)
